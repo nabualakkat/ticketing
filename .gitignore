@@ -1,3 +1,4 @@
 /auth/node_modules
 /client/.next
 /client/node_modules
+/common/node_modules
